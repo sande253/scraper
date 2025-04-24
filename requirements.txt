@@ -1,4 +1,7 @@
 streamlit
 selenium
-beautifulsoup4
+webdriver-manager
 requests
+beautifulsoup4
+pandas
+pillow
